@@ -38,15 +38,15 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> -->
   <a href="https://www.mongodb.com/docs/atlas/" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/580fe94a-2c6e-48cf-854e-a7b53b4c4876" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/c35f8873-87bd-44de-a7ae-77b0f4443cd0" alt="Express.js" width="40" height="40"/> </a>
   <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/ejF36" alt="React.js" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/docs/latest/api/documentation.html" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/741bffcd-7cbd-4a7b-88a8-f52a4b67a4cc" alt="Node.js" width="40" height="40"/> </a>
 <!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/77baedcc-1050-4d83-9b8c-4360fd6dac3a" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/docs/latest/api/documentation.html" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/741bffcd-7cbd-4a7b-88a8-f52a4b67a4cc" alt="Node.js" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
