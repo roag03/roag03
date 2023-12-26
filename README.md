@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **roag03/roag03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi, I'm Anant Upadhyay</h1>
+-->
+<h1 align="center">Hi, I am Rohit Agrahari</h1>
 <h3 align="center">Full MERN Stack Developer|</h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
@@ -21,13 +22,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Natural Language Processing [NLP](https://github.com/AnantUpadhyay02/NLP-Natural-Language-Processing)
 
-- 🌱 I’m currently Studying Machine Learning **Pandas, OpenCV, Tensorflow etc.**
+- 🌱 I’m currently Studying Web Development **HTML, CSS, JavaScript, React.js, Node,js, Node.js, MongoDB**
 
-- 📫 How to reach me **amanupadhyay1719@gmail.com**
+- 📫 How to reach me **rohitagrahari.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anant-upadhyay-287191204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant-upadhyay-287191204" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-agra108/" target="blank"><img align="center" src="![image](https://github.com/roag03/roag03/assets/109481548/9927d968-84fd-45a9-acc0-17821566148a)
+" alt="rohit-agra108" height="30" width="40" /></a>
 <a href="https://kaggle.com/anantupadhyay23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anantupadhyay23" height="30" width="40" /></a>
 <a href="https://instagram.com/anant_u8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anant_u8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anant_upadhyay_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anant_upadhyay_" height="30" width="40" /></a>
