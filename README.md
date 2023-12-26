@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I am Rohit Agrahari</h1>
-<h3 align="center">Full MERN Stack Developer|</h3>
+<h3 align="center">|Full MERN Stack Developer|</h3>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roag09&label=Visitors&color=db0000&style=plastic" alt="roag09" /> </p>
@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohit-agra108/" target="blank"><img align="center" src="![image](https://github.com/roag03/roag03/assets/109481548/9927d968-84fd-45a9-acc0-17821566148a)
-" alt="rohit-agra108" height="30" width="40" /></a>
-<a href="https://kaggle.com/anantupadhyay23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anantupadhyay23" height="30" width="40" /></a>
-<a href="https://instagram.com/anant_u8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anant_u8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anant_upadhyay_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anant_upadhyay_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-agra108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"rohit-agra108" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rohitagraharimg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohitagraharimg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/agraa_hari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agraa_hari" height="30" width="40" /></a>
+<a href="https://leetcode.com/Roag01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Roag01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
