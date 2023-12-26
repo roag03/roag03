@@ -69,3 +69,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/roag03/LeetCode-Questions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roag03&repo=LeetCode-Questions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+<a href="https://github.com/roag03/Web-Devlopment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roag03&repo=Web-Devlopment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://github.com/roag03/Python-bootcamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roag03&repo=Python-bootcamp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
