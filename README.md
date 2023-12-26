@@ -22,31 +22,31 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack Web Development [MERN Stack](https://github.com/roag03/MERN-Stack)
 
-- 🌱 I’m currently Studying Web Development **HTML, CSS, JavaScript, React.js, Node,js, Node.js, MongoDB**
+- 🌱 I’m currently Studying Web Development **HTML, CSS, JavaScript, MongoDB, Express.js, React.js,  Node.js **
 
 - 📫 Reach Me At **rohitagrahari.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-agra108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"rohit-agra108" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/rohitagraharimg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohitagraharimg" height="30" width="40" /></a>
+<a href="https://twitter.com/rohit_agrahari9" target="blank"><img align="center" src="https://github.com/roag03/roag03/assets/109481548/99e93734-804c-4c83-a933-44eb85179d54" alt="rohitagraharimg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/agraa_hari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agraa_hari" height="30" width="40" /></a>
 <a href="https://leetcode.com/Roag01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Roag01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> -->
+  <a href="https://www.mongodb.com/docs/atlas/" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/580fe94a-2c6e-48cf-854e-a7b53b4c4876" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://shorturl.at/ejF36" alt="React.js" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/77baedcc-1050-4d83-9b8c-4360fd6dac3a" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/docs/latest/api/documentation.html" target="_blank" rel="noreferrer"> <img src="https://github.com/roag03/roag03/assets/109481548/741bffcd-7cbd-4a7b-88a8-f52a4b67a4cc" alt="Node.js" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
  
 
-<a href="https://github.com/AnantUpadhyay02/NLP-Natural-Language-Processing">
-  <img align="Center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=NLP-Natural-Language-Processing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/roag03/MERN-Stack">
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/pin/?username=roag03&repo=MERN-Stack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/AnantUpadhyay02/LeetCode-DSA-Question-Using-Cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=LeetCode-DSA-Question-Using-Cpp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/roag03/LeetCode-Questions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roag03&repo=LeetCode-Questions&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
