@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Studying Web Development **HTML, CSS, JavaScript, React.js, Node,js, Node.js, MongoDB**
 
-- 📫 How to reach me **rohitagrahari.work@gmail.com**
+- 📫 Reach Me At **rohitagrahari.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
