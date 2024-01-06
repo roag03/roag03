@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack Web Development [MERN Stack](https://github.com/roag03/MERN-Stack)
 
-- 🌱 I’m currently Studying Web Development **HTML, CSS, JavaScript, MongoDB, Express.js, React.js,  Node.js **
+- 🌱 I’m currently Learning Web Development **HTML, CSS, JavaScript, MongoDB, Express.js, React.js,  Node.js **
 
 - 📫 Reach Me At **rohitagrahari.work@gmail.com**
 
